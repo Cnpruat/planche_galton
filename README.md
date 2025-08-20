@@ -16,7 +16,7 @@ On compte finalement le nombre de balle arrivées dans chacune des colonnes en b
 La distribution des balles au sein de ces collones approche fortement la forme d'une Gaussienne, signe d'une distribution en loi normale.  
 
 <p align="center">
-   <img src="images/result.png" alt="program running" width="400"/>
+   <img src="images/result.png" alt="Gauss" width="400"/>
 </p>
 
 ---
@@ -28,6 +28,7 @@ coloration-welsh-powell/
 │
 ├── planche_galton.py        # Programme principal
 ├── minidem.py               # Bibliothèque éléments finis en Python
+├── images/                  # Illustrations pour le readme
 ├── .gitignore
 ├── README.md
 └── LICENSE.txt
