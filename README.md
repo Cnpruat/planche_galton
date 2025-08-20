@@ -24,7 +24,7 @@ La distribution des balles au sein de ces collones approche fortement la forme d
 # 📁 Structure du projet
 
 ```
-coloration-welsh-powell/
+planche-galton/
 │
 ├── planche_galton.py        # Programme principal
 ├── minidem.py               # Bibliothèque éléments finis en Python
