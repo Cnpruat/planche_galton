@@ -45,5 +45,5 @@ Ce projet a été réalisé dans le cadre du module d'informatique de 2ème ann�
 ## Contact detail
 pierre.bourrandy@etu.unilim.fr *(ENSIL-ENSCI)*
 
-https://github.com/Cnpruat/puissance4-python *(GitHub)*
+https://github.com/Cnpruat/planche_galton *(GitHub)*
 
