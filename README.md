@@ -42,7 +42,7 @@ planche-galton/
 
 Ce projet a été réalisé dans le cadre du module d'informatique de 2ème année de Formation Initiale aux Métiers d'Ingénieurs. 
 
-## Contact detail
+## Contact 
 pierre.bourrandy@etu.unilim.fr *(ENSIL-ENSCI)*
 
 https://github.com/Cnpruat/planche_galton *(GitHub)*
